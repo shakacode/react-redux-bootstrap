@@ -7,6 +7,8 @@
 3. Redux-Saga
 4. Flow
 5. React-Router
+6. Reselect
+7. Lodash/FP
 
 ## Optional
 1. bootstrap-loader
