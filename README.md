@@ -6,3 +6,4 @@ Example of using:
 2. Redux
 3. Redux-Saga
 4. Flow
+5. React-Router
